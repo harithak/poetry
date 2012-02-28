@@ -1,8 +1,0 @@
-total 24
--rw-r--r--  1 tlberglund  staff  247 Feb 28 13:19 files.log
-drwxr-xr-x  6 tlberglund  staff  204 Feb 28 12:55 folder
-drwxr-xr-x  3 tlberglund  staff  102 Feb 28 13:23 logs
-drwxr-xr-x  5 tlberglund  staff  170 Feb 28 12:06 otherfolder
--rw-r--r--  1 tlberglund  staff  141 Feb 28 12:51 readme.md
--rw-r--r--  1 tlberglund  staff  367 Feb 28 13:20 special.log
-drwxr-xr-x  5 tlberglund  staff  170 Feb 28 13:22 target

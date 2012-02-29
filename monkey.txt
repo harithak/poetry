@@ -1,8 +1,6 @@
-
-
+This should have something about monkeys in it. Preferably angry ones.
+This is monkey.txt edited by dcnaraya
+The monkey is out of the box!!!
 Hey,
 This is monkey.txt edited by dcnaraya
-
 The monkey is out of the box!!!
-
-

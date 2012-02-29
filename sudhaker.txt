@@ -1,1 +1,3 @@
-#Hello there
+# Hello there
+  * Having a nice day
+  * Learning some crazy Git-fu

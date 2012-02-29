@@ -1,1 +1,11 @@
 Shoot straight you bastards and don't make a mess of it.
+total 472
+-rw-r--r--  1 tlberglund  staff     946 Feb 29 13:26 Copy of shakespeare.txt
+-rw-r--r--  1 tlberglund  staff      57 Feb 29 13:25 breaker_morant.txt
+-rw-r--r--  1 tlberglund  staff      89 Feb 29 13:25 byron.txt
+-rw-r--r--  1 tlberglund  staff    1167 Feb 29 12:44 chesterton.txt
+-rw-r--r--  1 tlberglund  staff     690 Feb 29 12:44 donne.txt
+-rw-r--r--  1 tlberglund  staff     538 Feb 29 12:44 henley.txt
+-rwxr-xr-x  1 tlberglund  staff  208259 Feb 29 13:25 petert_snowmobile.gif
+-rw-r--r--  1 tlberglund  staff     946 Feb 29 12:44 shakespeare.txt
+-rw-r--r--  1 tlberglund  staff     624 Feb 29 12:44 shelley.txt

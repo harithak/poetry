@@ -14,8 +14,8 @@ And dreadful commits so familiar
 That mothers shall but smile when they behold
 Their files edit'd with the hands of Emacs;
 All pity choked with custom of fell bugs:
-And Caesar's spirit, coding with revenge,
-With Eclipse by his side come hot from hell,
+And Tourvalds' keyboard, ranging for revenge,
+With Kernel by his side come hot from hell,
 Shall in these confines with a monarch's voice
 Cry 'MAVEN!' and let slip the dogs of war;
 That this foul deed shall smell above the earth

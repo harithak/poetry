@@ -1,0 +1,7 @@
+total 40
+-rw-r--r--  1 tlberglund  staff  1167 Feb 29 12:44 chesterton.txt
+-rw-r--r--  1 tlberglund  staff   690 Feb 29 12:44 donne.txt
+-rw-r--r--  1 tlberglund  staff   538 Feb 29 12:44 henley.txt
+-rw-r--r--  1 tlberglund  staff     0 Feb 29 13:24 prose.txt
+-rw-r--r--  1 tlberglund  staff   946 Feb 29 12:44 shakespeare.txt
+-rw-r--r--  1 tlberglund  staff   624 Feb 29 12:44 shelley.txt
